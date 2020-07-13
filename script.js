@@ -22,11 +22,15 @@ function padZeros(num) {
 function updateClock() {
 	var today = new Date();
 
-	var ampm = 'AM';
 	var hour = today.getHours();
 	if (hour > 12) {
 		hour = hour - 12;
-		ampm = 'PM';
+	}
+
+	if (hour < 12) {
+		var ampm = 'AM';	
+	} else {
+		var ampm = 'PM';
 	}
 
 	hour = padZeros(hour);
