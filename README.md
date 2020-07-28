@@ -2,8 +2,7 @@
 
 _Simple digital clock app that displays the date and time in the browser._
 
-![Screenshot]
-(C:\Users\Matth\Documents\02_Programming\05_SDMM\Digital Clock\Screenshot.png)
+![Screenshot](https://github.com/MatthewPetroff/digital-clock/blob/master/Screenshot.PNG)
 
 ### Summary
 
