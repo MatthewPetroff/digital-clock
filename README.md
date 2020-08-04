@@ -2,7 +2,7 @@
 
 _Simple digital clock app that displays the date and time in the browser._
 
-_To view the clock, click [here](https://matthewpetroff.github.io/digital-clock/)_
+_To view the clock, click [here](https://matthewpetroff.github.io/digital-clock/)._
 
 ![Screenshot](https://github.com/MatthewPetroff/digital-clock/blob/master/Screenshot.PNG)
 
